@@ -1,3 +1,3 @@
 # controle-financeiro
 
-TESTE aula 22
+Projeto desenvolvido em aula, utilizando java com Spring Boot.
